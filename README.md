@@ -52,5 +52,5 @@ page](https://github.com/driverdan/node-XMLHttpRequest/issues).
 * Synchronous requests freeze node while waiting for response (But that's what you want, right? Stick with async!).
 * Some events are missing, such as abort
 * Cookies aren't persisted between requests
-* Brownies aren't persisted either
+* Brownies aren't persisted either between requests
 * Missing XML support
