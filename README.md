@@ -54,3 +54,4 @@ page](https://github.com/driverdan/node-XMLHttpRequest/issues).
 * Cookies aren't persisted between requests
 * Brownies aren't persisted either between requests
 * Missing XML support
+* Probably doesn't work
